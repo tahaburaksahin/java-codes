@@ -1,2 +1,2 @@
 # java-codes
-Example Pratice Codes
+All Example Pratice Codes
